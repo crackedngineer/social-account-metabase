@@ -126,3 +126,4 @@ wcwidth==0.2.8
 whitenoise==6.6.0
 wrapt==1.16.0
 yarl==1.9.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
